@@ -14,7 +14,7 @@ To play this game, Simply clone all the files at a common location and run game_
 .
 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀:
 1. Python 3.x will work flawlessly.
-2. No additional modules imported. :)
+2. No third party modules imported. :)
 
 
 𝑰 𝒉𝒐𝒑𝒆 𝒚𝒐𝒖 𝒘𝒊𝒍𝒍 𝒆𝒏𝒋𝒐𝒚 𝒊𝒕. :)
