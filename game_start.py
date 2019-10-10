@@ -1,5 +1,5 @@
 from main import tic_tac_toe as ttt
-from main import result_calculator
+from main import result_calculator,winner_display
 
 def main():
     game1 = ttt() # making a class instance
@@ -17,7 +17,7 @@ def main():
             print("It's a draw")
             break
         else:
-            print('Player ' + result + ' Won the Game')
+            winner_display(result)
             break
 
 if __name__ == '__main__':
